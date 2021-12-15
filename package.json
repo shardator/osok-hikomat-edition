@@ -1,0 +1,19 @@
+{
+  "name": "osok-hikomat-edition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shardator/osok-hikomat-edition.git"
+  },
+  "author": "shardator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shardator/osok-hikomat-edition/issues"
+  },
+  "homepage": "https://github.com/shardator/osok-hikomat-edition#readme"
+}
